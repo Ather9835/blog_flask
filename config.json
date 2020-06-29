@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:654321@localhost/codingblog",
+    "prod_uri": "mysql://root:@localhost/codingblog",
+    "fb_url" : "https://facebook.com/codingblog",
+    "tw_url" : "https://twitter.com/codingblog",
+    "gh_url" : "https://github.com/codingblog",
+    "gmail_user": "mobasshir.kkr@gmail.com",
+    "gmail_password": "mam18EE01020",
+    "no_of_posts": 2,
+    "admin_user" : "ather",
+    "admin_password": "subscribenow",
+    "location": "C:\\Users\\Ather Mobashshir\\PycharmProjects\\fpro"
+  }
+}
